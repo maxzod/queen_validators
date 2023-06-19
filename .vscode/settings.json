@@ -1,0 +1,10 @@
+{
+  "cSpell.words": ["abcdefgh"],
+  "editor.tokenColorCustomizations": {
+    "comments": "",
+    "textMateRules": []
+  },
+  "cSpell.enableFiletypes": [
+    "!dart"
+  ]
+}

@@ -1,0 +1,16 @@
+name: queen_validators
+description: collection of validation methods and rules for flutter form with ZERO extra widgets
+version: 1.0.0
+homepage: https://github.com/FlutterQueen/validators
+repository: https://github.com/FlutterQueen/validators
+issue_tracker: https://github.com/FlutterQueen/validators/issues
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  email_validator: ^2.0.1
+
+dev_dependencies:
+  lint: ^2.1.2
+  test: ^1.24.3
